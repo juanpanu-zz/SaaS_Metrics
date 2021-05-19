@@ -1,5 +1,5 @@
 # SaaS_Metrics
-Simple web App using pandas plotly and Dash
+Web App using pandas plotly and Dash
 
 
 ![](assets/Capture.png)
