@@ -13,9 +13,9 @@ $ pip install numpy
 $ pip install pandas
 ```
 ### Run
-Just run following command.
+- Just run following command.
 ```
 $ py saas_app.py
 ```
-Go to http://localhost:8050/
-thats it.
+- Go to http://localhost:8050/
+- Thats it.
